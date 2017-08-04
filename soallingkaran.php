@@ -26,7 +26,6 @@
 		echo "menggunakan phi 22/7 <br>";
 		echo "luas lingkaran tersebut adalah " . round($luas2) . "<br>";
 		echo "Keliling lingkaran tersebut adalah " . round($keliling2);
-		echo "haiii";
 	}
 ?>
 </body>
