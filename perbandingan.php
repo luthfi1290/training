@@ -4,7 +4,7 @@
 	<title>Perbandingan</title>
 </head>
 <body>
-	
+	<h1>contoh soal</h1>
 	<form action="perbandingan.php" method="post">
 		<input type="text" name="input" maxlength="1">
 		<input type="submit" name="submit" value="bandingkan">
